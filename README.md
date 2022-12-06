@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonescary&label=Profile%20views&color=0e75b6&style=flat" alt="lonescary" /> </p>
 
-- 🔭 I’m currently working on [aliencheats.com rust cheat/script](https:/aliencheats.com/)
+- 🔭 I’m currently not working anywhere
 
 - 🌱 I’m currently learning **c++**
 
