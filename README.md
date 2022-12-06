@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm lonescary</h1>
+<h1 align="center">Hi 👋, I'm Psy</h1>
 <h3 align="center">A passionate cheat developer from United Kingdom</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonescary&label=Profile%20views&color=0e75b6&style=flat" alt="lonescary" /> </p>
